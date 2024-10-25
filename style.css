@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: green;
+    font-family: courier, sans-serif;
+    text-align: center;
+    
+}
+.display {
+    width: 500px;
+    height: 200px;
+    background-color: grey;
+    color: black;
+    padding: 20px;    
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: 2px solid green;
+    border-radius: 20px;
+    /* border-radius: 50px; */
+    /*thank you to chat gpt for margin, we love you */
+    
+}
+.button {
+    background-color: grey;
+    color: black;
+    width: 200px;
+    height: 20px;
+    padding: 5px;    
+    display: inline-block;
+    border-radius: 50px;
+    border: 2px solid green;
+    margin-bottom: 40px;   
+}
+#no {
+    padding-left: 9px;
+    padding-right: 9px;
+}
+/* 
+.button.two {
+    background-color: grey;
+    width: 100px;
+    height: 20px;
+    display: inline-block;
+    border-radius: 50px;
+    border: 2px solid green;
+    
+} */
+
