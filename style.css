@@ -8,6 +8,8 @@ body {
 .display {
     width: 500px;
     height: 200px;
+    
+    /* background-image: url('https://www.cyoa.com/cdn/shop/files/CYOA_MAIN_LOGO_3c2cf107-5d55-4252-a7c4-cd7c2b183300_900x.jpg?v=1657216834'); */
     background-color: grey;
     color: black;
     padding: 20px;    
@@ -28,7 +30,12 @@ body {
     display: inline-block;
     border-radius: 50px;
     border: 2px solid green;
-    margin-bottom: 40px;   
+    margin-bottom: 40px; 
+    cursor: pointer;   
+}
+.button:hover{ /* added a hover feature to make it look cool when you select 
+    the start button */
+color: rgb(255, 128, 0);
 }
 #no {
     padding-left: 9px;
