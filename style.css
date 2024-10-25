@@ -8,11 +8,9 @@ body {
 .display {
     width: 500px;
     height: 200px;
-    
-    /* background-image: url('https://www.cyoa.com/cdn/shop/files/CYOA_MAIN_LOGO_3c2cf107-5d55-4252-a7c4-cd7c2b183300_900x.jpg?v=1657216834'); */
     background-color: grey;
     color: black;
-    padding: 20px;    //moved font down from top
+    padding: 20px;    
     margin: 0 auto;
     margin-bottom: 30px;
     border: 2px solid green;
